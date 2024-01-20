@@ -1,1 +1,1 @@
-# CMA
+# Computational Methods and Applications 
