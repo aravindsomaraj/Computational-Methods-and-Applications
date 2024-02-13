@@ -70,3 +70,5 @@ anim = FuncAnimation(fig, update, frames=len(num_points), repeat=False)
 # Show the animation
 anim.save('./interpolations.gif', writer='imagemagick', fps=2)
 plt.show()
+
+s
